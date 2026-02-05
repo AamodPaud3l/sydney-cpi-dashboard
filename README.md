@@ -71,4 +71,11 @@ This approach helps avoid ambiguity while still allowing flexible exploration.
 ---
 
 ## Screenshots
-Screenshots of the Overview and Category Deep Dive pages are available in the `/screenshots` folder.
+### Overview
+![Overview](screenshots/overview.png)
+
+### Category Deep Dive
+![Category Deep Dive](screenshots/category%20deep%20dive.png)
+
+### Tooltip - Monthly Snapshot
+![Tooltip - Monthly Snapshot](screenshots/tooltip%20-%20monthly%20snapshot.png)
